@@ -1,4 +1,4 @@
-# Hadoop Lab
+# Big Data Lab
 
-This repository contains my study experiments of Hadoop platform: MapReduce, Hive, Spark...
+This repository contains my study experiments on Big Data: Hadoop, MapReduce, Hive, Spark...
 
